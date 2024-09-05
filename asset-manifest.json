@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mi-proyecto/static/css/main.beffaab8.css",
+    "main.js": "/mi-proyecto/static/js/main.4eab57d8.js",
+    "index.html": "/mi-proyecto/index.html",
+    "main.beffaab8.css.map": "/mi-proyecto/static/css/main.beffaab8.css.map",
+    "main.4eab57d8.js.map": "/mi-proyecto/static/js/main.4eab57d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beffaab8.css",
+    "static/js/main.4eab57d8.js"
+  ]
+}
