@@ -14,8 +14,8 @@ export function Tarea( { id, texto , completada , completarTarea , eliminarTarea
                 {texto}
             </aside>
             <aside className="tarea-contenedor-icono">
-                <IoIosCheckmarkCircle className="tarea-icono" onClick={completarTarea}/> 
-                <AiFillCloseCircle className="tarea-icono"/>  
+                <IoIosCheckmarkCircle className="tarea-icono" onClick={() => completarTarea(id)}/> 
+                <AiFillCloseCircle className="tarea-icono" onClick={() => eliminarTarea(id)}/>  
             </aside>
         </article>
 
