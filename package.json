@@ -2,7 +2,7 @@
   "name": "to-do-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tu-usuario.github.io/mi-proyecto",
+  "homepage": "https://srpapau.github.io/to-do-app/build",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
